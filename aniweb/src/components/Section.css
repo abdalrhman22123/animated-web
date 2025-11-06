@@ -1,0 +1,45 @@
+.pud
+{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 40%;
+    font-size: 5vw;
+    margin-left: 5%;
+}
+.stack
+{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    /* margin-left: 5%; */
+    font-size: 1.2vw;
+    margin-top: -1%;
+}
+.keep
+{
+width: 170%;
+}
+.rest
+{
+    width: 50%;
+}
+.secc
+{
+    /* display: grid; */
+    /* grid-auto-flow: column; */
+    /* grid-auto-columns: ; */
+    display: flex;
+    gap: 200px;
+    width: 100%;
+    overflow-x: auto;
+    /* overflow-y: scroll; */
+    /* position: fixed; */
+    top: 0;
+}
+.imgs
+{
+    display: flex;
+    gap: 30px;
+    margin-top: 25%;
+}
