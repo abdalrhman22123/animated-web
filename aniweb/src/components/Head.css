@@ -1,0 +1,50 @@
+.img
+{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+.paper
+{
+    width: 100%; 
+    position: absolute;
+    z-index: -1;
+}
+.btn
+{
+    width: 5%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.cont
+{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 1.4vw;
+    background-color: #232020;
+    color: white;
+    width: 85.72px;
+    height: 20px;
+    padding: 8px 23.8px 13.63px 24px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+.btns
+{
+    display: flex;
+    gap: 74%;
+}
+.kind
+{
+    width: 90%;
+    margin-left: 5%;
+    position: absolute;
+    margin-top: 2%;
+}
+.croco{
+    width: 40%;
+    margin-left: 38%;
+    margin-top: -1.7%;
+
+}
